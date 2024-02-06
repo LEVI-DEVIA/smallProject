@@ -1,1 +1,1 @@
-Un projet vous permettant utiliser Firebase via une simple page html, css et js
+Un projet vous permettant d'utiliser Firebase via une simple page html, css et js
